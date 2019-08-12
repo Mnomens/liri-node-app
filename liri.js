@@ -21,6 +21,7 @@ for (let i = 3; i < args.length; i++) {
 }
 
 function liri() {
+    search = search.toLowerCase();
     if (command === "concert-this") {
     concert(search);    
     }
