@@ -3,6 +3,16 @@
 ### Purpose
 The liri-node-app allows the user to access a variety of information about songs, movies, and concerts in one application. By using the command line, the user selects a category to search and then selects an item from that category to search.
 
+### Technologies used
+* javascript
+* node
+* axios
+* node-spotify-api
+* omdb-api
+* bands-in-town-api
+* dotenv
+* moment
+
 ### Directions for App use
 1. Decide whether you want to search for a song, movie, or concert.
     1. The command for song is: **spotify-this-song**
