@@ -10,11 +10,11 @@ The liri-node-app allows the user to access a variety of information about songs
     1. The command for concert is: **concert-this**
     1. To choose a random item thats in random.txt to be displayed on the console the command is: **do-what-it-says**
 1. Choose which song, movie, or concert you wish to search for.
-1. In the command line, once you are in the project directory, type in " node liri.js _catergory you chose_ **search item you chose**
+1. In the command line, once you are in the project directory, type in "node liri.js _catergory you chose_ **search item you chose**"
 1. Hit enter and watch the results appear!
 
 ### Examples of app function
-* spotify-this-song
+* **spotify-this-song**
 ![spotify-this-song](images/spotify-this.png)
 
 * **movie-this**
